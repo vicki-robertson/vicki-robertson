@@ -7,7 +7,6 @@
 - 🎨 I'm currently working towards the Google UX Design Professional Certificate
 - 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/vickirobertson)
 - 🌍 I'm British and live in Barcelona, Spain. I speak fluent English, Spanish (C1 level) and Catalan (B2 level) and a bit of Portuguese. 
-- 😄 Pronouns: She/her
 
 ## Skills
 - Programming Languages: JavaScript, PHP
