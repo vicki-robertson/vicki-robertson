@@ -4,16 +4,17 @@
 - 👱🏻‍♀️ I'm a dynamic professional transitioning to Full-stack development, with a blend of tech, design, teaching and entrepreneurial skills and experience.
 - 💻 I’ve recently completed a 6-month Full-stack Bootcamp (850 hours) run by FactoríaF5, with the support of Google.org Impact Challenge for Women and Girls
 - 🌱 I’m committed to expanding my technical and agile skills and am actively looking for work as a Full-stack developer
-- 🎨 I'm currently working towards the Google UX Design Professional Certificate
+- 🎨 I'm currently studying on Codecademy and towards the Google UX Design Professional Certificate with Coursera.
 - 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/vickirobertson) Connect with me on LinkedIn
 - 🌍 I'm British and live in Barcelona, Spain. I speak fluent English, Spanish (C1 level), Catalan (B2 level) and a bit of Portuguese. 
 
 ## Skills
-- Programming Languages: JavaScript, PHP
-- Web Development: HTML, CSS, React.js, Next.js, Laravel, MVC, Typescript, Node.js, MUI, Tailwind, Bootstrap, Prestashop, WordPress
+- Programming Languages: JavaScript, Typescript, PHP
+- Web Development: HTML, CSS, React.js, Next.js, Laravel, MVC, Node.js, Material UI (MUI), Tailwind, Bootstrap, Prestashop, WordPress
 - Databases: MySQL, PostgreSQL
+- Testing: Jest, Vitest, Cypress, TDD, PHPUnit
 - Version Control: Git, GitHub, Git flow
-- Other: Figma, UX/UI design, RESTful APIs, JSON Server, TDD, SOLID, DRY, Axios, Postman
+- Other: Figma, UX/UI design, RESTful APIs, JSON Server, SOLID, DRY, Axios, Postman
 
 ## Github
 
