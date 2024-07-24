@@ -1,4 +1,4 @@
-## Hi there, I'm Vicki 👋
+# Hi there, I'm Vicki 👋
 
 💻 Full-stack developer with an interdisciplinary background in software development, education, design, psychology and business.
 
@@ -22,14 +22,12 @@
 - Testing: Jest, Vitest, E2E with Cypress, TDD, PHPUnit
 - Other: Figma, UX/UI design, JSON Server, SOLID, DRY, version Control, Git, Git flow
 
-# Let's connect
+## Let's connect
 - 🌱 I’m committed to expanding my technical and agile skills and am actively looking for work as a Full-stack developer
 - ✉️ Feel free to connect with me on [!LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/vickirobertson) or reach out by email: vickirobertson.m@gmail.com
 - 🌍 I speak fluent English, Spanish (C1 level), Catalan (B2 level) and a bit of Portuguese. 
 
-
 ## Github
-
 <div align="center">
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vicki-robertson&theme=tokyonight&hide_border=false)
