@@ -1,4 +1,4 @@
-# Hi there, I'm Vicki 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=008A62&width=435&lines=Hi+there%2C+I'm+Vicki+%F0%9F%91%8B;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 💻 Full-stack developer with an interdisciplinary background in software development, education, design, psychology and business.
 
