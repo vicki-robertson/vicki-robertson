@@ -3,13 +3,8 @@
 💻 Full-stack developer with an interdisciplinary background in software development, education, design, psychology and business.
 
 ## About me
-🎮 As a child I loved programming simple computer games, but I didn't rediscover this passion until I needed an e-commerce site for my brand, Andapanda, selling handmade soft toys and accessories. So I taught myself Prestashop and later WordPress, through lots of trial and error, and ran the online shop for 5 years.
-
-🧩 A few years ago I was making the final decision whether to pivot careers from teaching into software development. As a mini challenge, I told myself that if I could learn the Rubiks Cube algorithms, I would take the plunge. And that's how I finally learnt how to solve a Rubik's Cube and began the front-end engineer career path on Codecademy.
 
 🚀 I recently completed an intensive 6-month full-stack development bootcamp with Factoria F5, where I solidified my technical background and gained experience in agile methodologies, sprint planning in teams, and pair programming.
-
-💼 Currently I’m interning at Jointure, building the MVP for a B2B platform that connects brands connects brands for marketing collaborations.
 
 🔗 My diverse background, curiosity and lateral thinking allows me to approach problems from unique perspectives and find new strategies and connections. Having an entrepreneurial mindset enables me to embrace challenges, prioritise growth and deliver value to clients.
 
@@ -24,7 +19,7 @@
 
 ## Let's connect
 - 🌱 I’m committed to expanding my technical and agile skills and am actively looking for work as a Full-stack developer
-- ✉️ Feel free to connect with me on [!LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/vickirobertson) or reach out by email: vickirobertson.m@gmail.com
+- ✉️ Feel free to connect with me on ![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/vickirobertson) or reach out by email: vickirobertson.m@gmail.com
 - 🌍 I speak fluent English, Spanish (C1 level), Catalan (B2 level) and a bit of Portuguese. 
 
 ## Github
